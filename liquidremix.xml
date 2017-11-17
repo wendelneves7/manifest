@@ -1,0 +1,10 @@
+<!-- LiquidRemix 8.0 -->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/lge/d855" name="itsHardStyl3r/android_device_lge_d855" remote="github" revision="8.0-liquid" />
+  <project path="device/lge/g3-common" name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="8.0-liquid" />
+  <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
+  <project path="kernel/lge/g3" name="mountaser/Moun_Kernel_G3" remote="github" revision="RR_5.9.1" />
+  <project path="vendor/lge" name="itsHardStyl3r/proprietary_vendor_lge" remote="github" revision="8.0" />
+</manifest>
