@@ -1,6 +1,6 @@
-<!-- AOSPExtended v5.0 -->
-
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- AOSPExtended v5.0 -->
 <manifest>
   <project path="device/lge/d855" name="itsHardStyl3r/android_device_lge_d855" remote="github" revision="8.0-aosp" />
   <project path="device/lge/g3-common" name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="8.0-aosp" />
