@@ -7,7 +7,7 @@
   <project path="device/lge/d852" name="itsHardStyl3r/android_device_lge_d852" remote="github" revision="8.0-liquid" />
   <project path="device/lge/d855" name="itsHardStyl3r/android_device_lge_d855" remote="github" revision="8.0-liquid" />
   <project path="device/lge/f400" name="itsHardStyl3r/android_device_lge_f400" remote="github" revision="8.0-liquid" />
-  <project path="device/lge/g3-common" name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="8.0-liquid" />
+  <project path="device/lge/g3-common" name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="8.0" />
   <project path="device/lge/ls990" name="itsHardStyl3r/android_device_lge_ls990" remote="github" revision="8.0-liquid" />
   <project path="device/lge/vs985" name="itsHardStyl3r/android_device_lge_vs985" remote="github" revision="8.0-liquid" />
   <project path="device/qcom/common" name="LineageOS/android_device_qcom_common" remote="github" revision="lineage-15.0" />
