@@ -10,6 +10,6 @@
   <project path="device/lge/g3-common" name="itsHardStyl3r/android_device_lge_g3-common" remote="github" revision="8.0-aosp" />
   <project path="device/lge/ls990" name="itsHardStyl3r/android_device_lge_ls990" remote="github" revision="8.0-aosp" />
   <project path="device/lge/vs985" name="itsHardStyl3r/android_device_lge_vs985" remote="github" revision="8.0-aosp" />
-  <project path="kernel/lge/g3" name="crdroid-devices/android_kernel_lge_g3" remote="github" revision="8.0" />
+  <project path="kernel/lge/g3" name="Artx-II/kernel_lge_g3_oreo" remote="github" revision="v3.2" />
   <project path="vendor/lge" name="itsHardStyl3r/proprietary_vendor_lge" remote="github" revision="8.0" />
 </manifest>
