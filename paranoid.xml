@@ -4,6 +4,9 @@
 <manifest>
   <remote  name="codeaurora"
          fetch="https://source.codeaurora.org/"/>
+
+  <remove-project name="AOSPA/android_vendor_pa" />
+  <project path="vendor/pa" name="itsHardStyl3r/android_vendor_pa" remote="github" revision="nougat-mr2" />
   <project name="AOSPA/android_hardware_qcom_audio" path="hardware/qcom/audio" remote="aospa" revision="nougat-mr2-8974" />
   <project name="AOSPA/android_hardware_qcom_display" path="hardware/qcom/display" remote="aospa" revision="nougat-mr2-8974" />
   <project name="AOSPA/android_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="aospa" revision="nougat-mr2" />
