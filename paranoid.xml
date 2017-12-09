@@ -19,9 +19,5 @@
   
   <remove-project name="platform/packages/apps/Nfc" />
   <project name="LineageOS/android_packages_apps_Nfc" path="packages/apps/Nfc" remote="github" revision="cm-14.1" />
-  <project name="LineageOS/android_external_connectivity" path="external/connectivity" remote="github" revision="cm-14.1" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="cm-14.1" />
-  
-  <remove-project name="platform/hardware/qcom/wlan" />
-  <project name="external/gigabyte/platform/hardware/qcom/wlan/" remote="codeaurora" path="hardware/qcom/wlan" revision="caf/aosp-new/nougat-mr2.3-release" />
 </manifest>
