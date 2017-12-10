@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- LineageOS 15.0 -->
+<!-- LineageOS 15.1 -->
 <manifest>
   <project path="device/lge/d850" name="itsHardStyl3r/android_device_lge_d850" remote="github" revision="8.0" />
   <project path="device/lge/d851" name="itsHardStyl3r/android_device_lge_d851" remote="github" revision="8.0" />
